@@ -1,0 +1,4 @@
+/target
+/src/*.exe
+/src/*.pdb
+*.lock
